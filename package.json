@@ -1,0 +1,44 @@
+{
+    "name": "sass-reset",
+    "version": "1.0.0",
+    "description": "stylesheets reset for sass",
+    "keywords": [
+        "sass",
+        "scss",
+        "css",
+        "reset",
+        "resets",
+        "stylesheet",
+        "stylesheets",
+        "style",
+        "styles"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bamdadsabbagh/sass-reset.git"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Bamdad Sabbagh",
+        "email": "hello@bamdadsabbagh.com",
+        "url": "https://bamdadsabbagh.com"
+    },
+    "type": "module",
+    "main": "src/index.js",
+    "module": "src/reset.scss",
+    "files": [
+        "src"
+    ],
+    "scripts": {
+        "package:sort": "npx sort-package-json"
+    },
+    "jest": {
+        "collectCoverage": true,
+        "coverageDirectory": "./coverage/"
+    },
+    "devDependencies": {
+        "@bamdadsabbagh/stylelint-config": "^1.2.191",
+        "codecov": "^3.8.1",
+        "jest": "^26.6.3"
+    }
+}
