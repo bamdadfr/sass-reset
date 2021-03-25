@@ -24,7 +24,7 @@
         "url": "https://bamdadsabbagh.com"
     },
     "type": "module",
-    "main": "src/index.js",
+    "main": "src/reset.scss",
     "module": "src/reset.scss",
     "files": [
         "src"
