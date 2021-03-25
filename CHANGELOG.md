@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/bamdadsabbagh/sass-reset/compare/v1.0.1...v1.0.2) (2021-03-25)
+
+
+### Bug Fixes
+
+* **docs:** added readme and license ([6174cc9](https://github.com/bamdadsabbagh/sass-reset/commit/6174cc94d039225a4453924ee4ada725ebeda2ce))
+
 ## [1.0.1](https://github.com/bamdadsabbagh/sass-reset/compare/v1.0.0...v1.0.1) (2021-03-25)
 
 
