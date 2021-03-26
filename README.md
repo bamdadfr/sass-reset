@@ -33,7 +33,7 @@ yarn add sass-reset
 ### `.scss` file
 
 ```scss
-@import 'sass-reset';
+@import '~sass-reset';
 ```
 
 ### `.js` file
