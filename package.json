@@ -37,6 +37,6 @@
         "coverageDirectory": "./coverage/"
     },
     "devDependencies": {
-        "@bamdadsabbagh/stylelint-config": "^1.2.191"
+        "@bamdadsabbagh/stylelint-config": "^1.3.11"
     }
 }
