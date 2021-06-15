@@ -202,13 +202,13 @@
     to-fast-properties "^2.0.0"
 
 "@bamdadsabbagh/stylelint-config@^1.3.11":
-  version "1.3.11"
-  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/stylelint-config/-/stylelint-config-1.3.11.tgz#94f31e82ac358ab937294b85a253c08c30848b77"
-  integrity sha512-pD8avpc07c40/mW+joytARHHKxqYE3s6HUs2Y2LNdDU1frElkGWSvMV2dL1/H/D/rWp49OhQIz6Jx0WDrzXvOQ==
+  version "1.3.13"
+  resolved "https://registry.yarnpkg.com/@bamdadsabbagh/stylelint-config/-/stylelint-config-1.3.13.tgz#8d878dccca5eef4c5afe3d0d560943b9d03c0308"
+  integrity sha512-du2jkC86lbJZMtTqiJFMl1va/DaEobSK7K+gnHNC6FV8uN9VfQag7LDQi4fpyyLovF1/HCw1/e+iJWHcg51ZAA==
   dependencies:
     stylelint "^13.5.0"
     stylelint-config-prettier "^8.0.1"
-    stylelint-config-recommended "^3.0.0"
+    stylelint-config-recommended "^5.0.0"
     stylelint-config-styled-components "^0.1.1"
     stylelint-processor-styled-components "^1.10.0"
 
@@ -1577,10 +1577,10 @@ stylelint-config-prettier@^8.0.1:
   resolved "https://registry.yarnpkg.com/stylelint-config-prettier/-/stylelint-config-prettier-8.0.2.tgz#da9de33da4c56893cbe7e26df239a7374045e14e"
   integrity sha512-TN1l93iVTXpF9NJstlvP7nOu9zY2k+mN0NSFQ/VEGz15ZIP9ohdDZTtCWHs5LjctAhSAzaILULGbgiM0ItId3A==
 
-stylelint-config-recommended@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/stylelint-config-recommended/-/stylelint-config-recommended-3.0.0.tgz#e0e547434016c5539fe2650afd58049a2fd1d657"
-  integrity sha512-F6yTRuc06xr1h5Qw/ykb2LuFynJ2IxkKfCMf+1xqPffkxh0S09Zc902XCffcsw/XMFq/OzQ1w54fLIDtmRNHnQ==
+stylelint-config-recommended@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/stylelint-config-recommended/-/stylelint-config-recommended-5.0.0.tgz#fb5653f495a60b4938f2ad3e77712d9e1039ae78"
+  integrity sha512-c8aubuARSu5A3vEHLBeOSJt1udOdS+1iue7BmJDTSXoCBmfEQmmWX+59vYIj3NQdJBY6a/QRv1ozVFpaB9jaqA==
 
 stylelint-config-styled-components@^0.1.1:
   version "0.1.1"
