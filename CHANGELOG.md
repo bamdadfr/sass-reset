@@ -1,3 +1,15 @@
+## [1.0.3](https://github.com/bamdadsabbagh/sass-reset/compare/v1.0.2...v1.0.3) (2021-08-16)
+
+
+### Bug Fixes
+
+* **deps:** stylelint upgrade ([94b75e2](https://github.com/bamdadsabbagh/sass-reset/commit/94b75e22a850a49839f33a8335b81af5821f3e95))
+
+
+### Performance Improvements
+
+* remove ESM/CJS declaration in package.json ([ac1f01d](https://github.com/bamdadsabbagh/sass-reset/commit/ac1f01d158d5d9912b220933502b39bf5fab980d))
+
 ## [1.0.2](https://github.com/bamdadsabbagh/sass-reset/compare/v1.0.1...v1.0.2) (2021-03-25)
 
 
