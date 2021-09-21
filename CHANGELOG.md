@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/bamdadsabbagh/sass-reset/compare/v1.0.3...v1.0.4) (2021-09-21)
+
+
+### Bug Fixes
+
+* **CI:** update release pipelines ([20460ee](https://github.com/bamdadsabbagh/sass-reset/commit/20460ee08c7c5221de95e0c596d348587cf49658))
+
 ## [1.0.3](https://github.com/bamdadsabbagh/sass-reset/compare/v1.0.2...v1.0.3) (2021-08-16)
 
 
