@@ -1,38 +1,34 @@
 {
-    "name": "sass-reset",
-    "version": "1.0.4",
-    "description": "stylesheets reset for sass",
-    "keywords": [
-        "sass",
-        "scss",
-        "css",
-        "reset",
-        "resets",
-        "stylesheet",
-        "stylesheets",
-        "style",
-        "styles"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/bamdadsabbagh/sass-reset.git"
-    },
-    "license": "MIT",
-    "author": {
-        "name": "Bamdad Sabbagh",
-        "email": "hello@bamdadsabbagh.com",
-        "url": "https://bamdadsabbagh.com"
-    },
-    "main": "src/reset.scss",
-    "module": "src/reset.scss",
-    "files": [
-        "src"
-    ],
-    "scripts": {
-        "package:sort": "npx sort-package-json"
-    },
-    "devDependencies": {
-        "@bamdadsabbagh/eslint-config": "^1.16.1",
-        "@bamdadsabbagh/stylelint-config": "^1.3.21"
-    }
+  "name": "sass-reset",
+  "version": "1.0.4",
+  "description": "reset stylesheet for sass",
+  "keywords": [
+    "sass",
+    "scss",
+    "css",
+    "reset",
+    "resets",
+    "stylesheet",
+    "stylesheets",
+    "style",
+    "styles"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bamdadfr/sass-reset.git"
+  },
+  "license": "MIT",
+  "main": "src/reset.scss",
+  "module": "src/reset.scss",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "package:sort": "npx sort-package-json"
+  },
+  "devDependencies": {
+    "prettier": "^3.8.4",
+    "stylelint": "^17.13.0",
+    "stylelint-config-standard-scss": "^17.0.0"
+  }
 }
