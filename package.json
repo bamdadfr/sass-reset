@@ -26,6 +26,7 @@
   "scripts": {
     "package:sort": "npx sort-package-json"
   },
+  "types": "./src/types.d.ts",
   "devDependencies": {
     "prettier": "^3.8.4",
     "stylelint": "^17.13.0",
