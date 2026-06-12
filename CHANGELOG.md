@@ -1,3 +1,13 @@
+## [1.0.5](https://github.com/bamdadfr/sass-reset/compare/v1.0.4...v1.0.5) (2026-06-12)
+
+
+### Bug Fixes
+
+* add typescript definition ([1c6bea5](https://github.com/bamdadfr/sass-reset/commit/1c6bea56b36d5a207dfdde91cead202217c52658))
+* cleanup repo and update packages ([402c375](https://github.com/bamdadfr/sass-reset/commit/402c375da9f3bc3415de940700332d76ac1ae42f))
+* remove yarn from CI workflow ([e0811f3](https://github.com/bamdadfr/sass-reset/commit/e0811f3837ca10b43d37a8f451af78799adc919b))
+* rename CI job ([c1c2ed8](https://github.com/bamdadfr/sass-reset/commit/c1c2ed8e6d6dc9c49fc308d25d7b2eee69372872))
+
 ## [1.0.4](https://github.com/bamdadsabbagh/sass-reset/compare/v1.0.3...v1.0.4) (2021-09-21)
 
 
