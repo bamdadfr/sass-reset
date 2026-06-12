@@ -34,4 +34,5 @@ jobs:
 
       - run: semantic-release
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_TOKEN: ${{ secrets.PAT }}
