@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/bamdadfr/sass-reset/compare/v1.0.6...v1.0.7) (2026-06-12)
+
+
+### Bug Fixes
+
+* use new npm trusted publishing ([39479b4](https://github.com/bamdadfr/sass-reset/commit/39479b4395bb85962728fbffbb8beb00bd95cd35))
+
 ## [1.0.6](https://github.com/bamdadfr/sass-reset/compare/v1.0.5...v1.0.6) (2026-06-12)
 
 
