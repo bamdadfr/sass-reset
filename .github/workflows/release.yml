@@ -16,8 +16,6 @@ jobs:
         with:
           node-version: '22'
 
-      - run: yarn
-
       - run: |
           npm install -g \
             semantic-release \
