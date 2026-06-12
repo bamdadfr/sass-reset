@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/bamdadfr/sass-reset/compare/v1.0.8...v1.0.9) (2026-06-12)
+
+
+### Bug Fixes
+
+* use latest node version ([a981bd8](https://github.com/bamdadfr/sass-reset/commit/a981bd8782bc603ab2f6a962ea8958c947f9e6e8))
+
 ## [1.0.8](https://github.com/bamdadfr/sass-reset/compare/v1.0.7...v1.0.8) (2026-06-12)
 
 
