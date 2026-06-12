@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/bamdadfr/sass-reset/compare/v1.0.5...v1.0.6) (2026-06-12)
+
+
+### Bug Fixes
+
+* fix repo url ([cc98c5f](https://github.com/bamdadfr/sass-reset/commit/cc98c5f74d137197f832c509ef4e60cc84f4c2d8))
+
 ## [1.0.5](https://github.com/bamdadfr/sass-reset/compare/v1.0.4...v1.0.5) (2026-06-12)
 
 
