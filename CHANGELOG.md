@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/bamdadfr/sass-reset/compare/v1.0.7...v1.0.8) (2026-06-12)
+
+
+### Bug Fixes
+
+* provide github token as well ([cfcdaaa](https://github.com/bamdadfr/sass-reset/commit/cfcdaaabd4ee51d639d00c83c88dc93632ee18b7))
+
 ## [1.0.7](https://github.com/bamdadfr/sass-reset/compare/v1.0.6...v1.0.7) (2026-06-12)
 
 
