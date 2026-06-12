@@ -1,4 +1,4 @@
-name: semantic-release-yarn--onPush
+name: release
 
 on:
   push:
@@ -14,7 +14,7 @@ jobs:
 
       - uses: actions/setup-node@master
         with:
-          node-version: '14'
+          node-version: '22'
 
       - run: yarn
 
